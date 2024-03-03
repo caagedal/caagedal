@@ -12,10 +12,6 @@ I am currently living in Kristiansand, Norway with my boyfriend and daughter. I 
 
 #### I really enjoy music, here you have a little view into my world
 
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<p align="center">
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
-
 <!--🎵SPOTIFY LATEST / 🌐WEBSITE: https://spotify-recently-played-readme.vercel.app/ -->
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=caagedal)
 
