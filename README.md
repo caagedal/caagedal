@@ -10,7 +10,7 @@ I am currently living in Kristiansand, Norway with my fiancè and daughter. I us
 
 ## skillsets
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,tailwind,bootstrap,netlify,wordpress,vscode,vite,ts,)](https://skillicons.dev)
 
 #### I really enjoy music, here you have a little view into my world
 
