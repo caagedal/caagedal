@@ -1,5 +1,7 @@
 ### Hi there, I am Cecilie Aagedal 👋
 
+[!image](/cec.png)
+
 #### I am a full-time student at noroff university, studying front-end development.
 
 I am currently living in Kristiansand, Norway with my fiancè and daughter. I used to work in the service/restaraunt bussiness, but I never felt at home there. As a lifelong gamer and avid explorer of the world wide webs, I decided that gender should not be an obsticle for my passions, so I signed up to uni and my real journey can finally start.  
