@@ -1,6 +1,6 @@
 ### Hi there, I am Cecilie Aagedal 👋
 
-[!image](/cec.png)
+
 
 #### I am a full-time student at noroff university, studying front-end development.
 
