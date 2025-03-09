@@ -8,7 +8,6 @@ I am currently living in Kristiansand, Norway with my fiancè and daughter. I us
 - 🌱 I’m currently learning all HTML/CSS/javaScript/REACT/Tailwindcss/Vite/Payload etc. 
 - 👯 I’m looking to collaborate on something that could make a change... or just spark my interests.
 - 💬 Ask me about anything :D
-- ⚡ Fun fact: I met my fiancè through call of duty 13 years ago, when he was learning me to quickscope. Now I am better than him.
 
 #### I really enjoy music, here you have a little view into my world
 
